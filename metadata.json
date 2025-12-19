@@ -1,0 +1,5 @@
+{
+  "name": "Folder2Prompt",
+  "description": "A utility to effortlessly merge folder contents into a single text prompt for AI contexts, preserving directory structure and file paths.",
+  "requestFramePermissions": []
+}
