@@ -2,6 +2,8 @@
   <h1>Folder2Prompt</h1>
   <h3>为 AI 准备代码上下文</h3>
   <p>可以将您的文件或文件夹转换为适合大语言模型（LLM）阅读的 Prompt 格式。</p>
+  <br/>
+  <img src="assets/preview.png" alt="Folder2Prompt Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);"/>
 </div>
 
 ## 📖 项目简介
