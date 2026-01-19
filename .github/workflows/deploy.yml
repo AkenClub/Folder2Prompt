@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         # Uses npm ci for reproducible builds (requires package-lock.json)
         # If you don't have a lockfile committed, change to 'npm install'
-        run: npm ci
+        run: npm install
 
       - name: Build
         run: npm run build
